@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Free Skyboxes - Space/Demo Scenes/SBS Space 5.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
