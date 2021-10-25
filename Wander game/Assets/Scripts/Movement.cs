@@ -1,0 +1,88 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Movement : MonoBehaviour
+{
+	CharacterController PlayerController;
+
+    // Movement
+    Vector3 PlayerMovement;
+    float PlayerX;
+    float PlayerZ;
+    [SerializeField]
+    public float MovementSpeed = 5f;     // Multipler
+
+    // Gravity
+    //Vector3 GravityVector;
+    [SerializeField]
+    private float Gravity = 7f;
+
+    // Jump
+    [SerializeField]
+    private float JumpSpeed = 1.4f;
+    private float PlayerDirection_Y;
+
+
+    void Start()
+    {
+        PlayerController = GetComponent<CharacterController>();
+    }
+
+    void Update()
+    {
+        Move();
+        //Debugging();
+
+    }
+
+    void Move()
+    {
+        // WASD movement
+        PlayerX = Input.GetAxis("Horizontal");
+        PlayerZ = Input.GetAxis("Vertical");
+        PlayerMovement = transform.right * PlayerX + transform.forward * PlayerZ;    
+
+        // Press Space to jump
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            PlayerDirection_Y = JumpSpeed;
+        }
+
+        // Add gravity to Y-axis movement
+        PlayerDirection_Y -= Gravity * Time.deltaTime;
+        PlayerMovement.y = PlayerDirection_Y;
+
+        // Finally, move the player
+        PlayerController.Move(PlayerMovement * MovementSpeed * Time.deltaTime);
+
+    }
+
+    //Debugs
+    void Debugging()
+	{
+		//Touching Ground
+        /*if(PlayerController.isGrounded)
+        {
+        	Debug.Log("Grounded");
+        }*/
+
+        //Console Writes
+    	if(Input.GetKey(KeyCode.W))
+    	{
+    		Debug.Log("Forward");
+    	}
+    	else if(Input.GetKey(KeyCode.S))
+    	{
+    		Debug.Log("Backwards");
+    	}
+    	else if(Input.GetKey(KeyCode.D))
+    	{
+    		Debug.Log("Right");
+    	}
+        else if(Input.GetKey(KeyCode.A))
+        {
+            Debug.Log("Left");
+        }
+	}
+}
