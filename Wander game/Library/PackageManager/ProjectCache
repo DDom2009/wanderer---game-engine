@@ -1,20 +1,36 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
+<<<<<<< Updated upstream
     m_FilePath: C:/Users/ASUS PC/Documents/GitHub/wanderer---game-engine/Wander game/Packages/manifest.json
+=======
+    m_FilePath: D:/E3WANDERER/wanderer---game-engine/Wander game/Packages/manifest.json
+>>>>>>> Stashed changes
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< Updated upstream
       ticks: 637707987757911842
     m_Hash: 3880500942
   m_LockFileStatus:
     m_FilePath: C:/Users/ASUS PC/Documents/GitHub/wanderer---game-engine/Wander game/Packages/packages-lock.json
+=======
+      ticks: 637706283608650633
+    m_Hash: 93368399
+  m_LockFileStatus:
+    m_FilePath: D:/E3WANDERER/wanderer---game-engine/Wander game/Packages/packages-lock.json
+>>>>>>> Stashed changes
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< Updated upstream
       ticks: 637707987757922039
     m_Hash: 3624197740
+=======
+      ticks: 637706283608709194
+    m_Hash: 2704955599
+>>>>>>> Stashed changes
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -25,8 +41,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.5.7
       source: 1
+<<<<<<< Updated upstream
       resolvedPath: C:\Users\ASUS PC\Documents\GitHub\wanderer---game-engine\Wander
         game\Library\PackageCache\com.unity.collab-proxy@1.5.7
+=======
+      resolvedPath: D:\E3WANDERER\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.collab-proxy@1.5.7
+>>>>>>> Stashed changes
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Version Control
@@ -143,8 +163,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
+<<<<<<< Updated upstream
       resolvedPath: C:\Users\ASUS PC\Documents\GitHub\wanderer---game-engine\Wander
         game\Library\PackageCache\com.unity.ide.rider@2.0.7
+=======
+      resolvedPath: D:\E3WANDERER\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.ide.rider@2.0.7
+>>>>>>> Stashed changes
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -251,8 +275,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.8
       source: 1
+<<<<<<< Updated upstream
       resolvedPath: C:\Users\ASUS PC\Documents\GitHub\wanderer---game-engine\Wander
         game\Library\PackageCache\com.unity.ide.visualstudio@2.0.8
+=======
+      resolvedPath: D:\E3WANDERER\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.ide.visualstudio@2.0.8
+>>>>>>> Stashed changes
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -339,8 +367,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.3
       source: 1
+<<<<<<< Updated upstream
       resolvedPath: C:\Users\ASUS PC\Documents\GitHub\wanderer---game-engine\Wander
         game\Library\PackageCache\com.unity.ide.vscode@1.2.3
+=======
+      resolvedPath: D:\E3WANDERER\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.ide.vscode@1.2.3
+>>>>>>> Stashed changes
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -411,8 +443,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.2
       source: 1
+<<<<<<< Updated upstream
       resolvedPath: C:\Users\ASUS PC\Documents\GitHub\wanderer---game-engine\Wander
         game\Library\PackageCache\com.unity.polybrush@1.0.2
+=======
+      resolvedPath: D:\E3WANDERER\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.polybrush@1.0.2
+>>>>>>> Stashed changes
       assetPath: Packages/com.unity.polybrush
       name: com.unity.polybrush
       displayName: Polybrush
@@ -490,8 +526,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 4.5.2
       source: 1
+<<<<<<< Updated upstream
       resolvedPath: C:\Users\ASUS PC\Documents\GitHub\wanderer---game-engine\Wander
         game\Library\PackageCache\com.unity.probuilder@4.5.2
+=======
+      resolvedPath: D:\E3WANDERER\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.probuilder@4.5.2
+>>>>>>> Stashed changes
       assetPath: Packages/com.unity.probuilder
       name: com.unity.probuilder
       displayName: ProBuilder
@@ -631,8 +671,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.3-preview.6
       source: 1
+<<<<<<< Updated upstream
       resolvedPath: C:\Users\ASUS PC\Documents\GitHub\wanderer---game-engine\Wander
         game\Library\PackageCache\com.unity.progrids@3.0.3-preview.6
+=======
+      resolvedPath: D:\E3WANDERER\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.progrids@3.0.3-preview.6
+>>>>>>> Stashed changes
       assetPath: Packages/com.unity.progrids
       name: com.unity.progrids
       displayName: ProGrids
@@ -709,8 +753,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.1.24
       source: 1
+<<<<<<< Updated upstream
       resolvedPath: C:\Users\ASUS PC\Documents\GitHub\wanderer---game-engine\Wander
         game\Library\PackageCache\com.unity.test-framework@1.1.24
+=======
+      resolvedPath: D:\E3WANDERER\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.test-framework@1.1.24
+>>>>>>> Stashed changes
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -806,8 +854,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.6
       source: 1
+<<<<<<< Updated upstream
       resolvedPath: C:\Users\ASUS PC\Documents\GitHub\wanderer---game-engine\Wander
         game\Library\PackageCache\com.unity.textmeshpro@3.0.6
+=======
+      resolvedPath: D:\E3WANDERER\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.textmeshpro@3.0.6
+>>>>>>> Stashed changes
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -966,8 +1018,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.4.8
       source: 1
+<<<<<<< Updated upstream
       resolvedPath: C:\Users\ASUS PC\Documents\GitHub\wanderer---game-engine\Wander
         game\Library\PackageCache\com.unity.timeline@1.4.8
+=======
+      resolvedPath: D:\E3WANDERER\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.timeline@1.4.8
+>>>>>>> Stashed changes
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -2928,8 +2984,12 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.6
       source: 1
+<<<<<<< Updated upstream
       resolvedPath: C:\Users\ASUS PC\Documents\GitHub\wanderer---game-engine\Wander
         game\Library\PackageCache\com.unity.ext.nunit@1.0.6
+=======
+      resolvedPath: D:\E3WANDERER\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.ext.nunit@1.0.6
+>>>>>>> Stashed changes
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -2990,8 +3050,12 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.3
       source: 1
+<<<<<<< Updated upstream
       resolvedPath: C:\Users\ASUS PC\Documents\GitHub\wanderer---game-engine\Wander
         game\Library\PackageCache\com.unity.settings-manager@1.0.3
+=======
+      resolvedPath: D:\E3WANDERER\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.settings-manager@1.0.3
+>>>>>>> Stashed changes
       assetPath: Packages/com.unity.settings-manager
       name: com.unity.settings-manager
       displayName: Settings Manager
@@ -3049,8 +3113,12 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 2.0.0
       source: 1
+<<<<<<< Updated upstream
       resolvedPath: C:\Users\ASUS PC\Documents\GitHub\wanderer---game-engine\Wander
         game\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
+=======
+      resolvedPath: D:\E3WANDERER\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
+>>>>>>> Stashed changes
       assetPath: Packages/com.unity.nuget.newtonsoft-json
       name: com.unity.nuget.newtonsoft-json
       displayName: Newtonsoft Json
@@ -3123,5 +3191,9 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
+<<<<<<< Updated upstream
 m_ProjectPath: C:/Users/ASUS PC/Documents/GitHub/wanderer---game-engine/Wander game/Packages
+=======
+m_ProjectPath: D:/E3WANDERER/wanderer---game-engine/Wander game/Packages
+>>>>>>> Stashed changes
 m_EditorVersion: 2020.3.10f1 (297d780c91bc)
