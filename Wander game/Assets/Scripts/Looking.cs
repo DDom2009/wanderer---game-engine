@@ -10,6 +10,7 @@ public class Looking : MonoBehaviour
 	//Mouse Positions
 	float MouseX;
 	float MouseY;
+    public float lookLimit = 45f;
 
 	//Player Body
 	public Transform Body;
@@ -18,6 +19,7 @@ public class Looking : MonoBehaviour
     void Start()
     {
         Cursor.lockState = CursorLockMode.Locked;
+        playerCamera.GetComponent<Camera>();
     }
 
     void Update()
@@ -29,6 +31,7 @@ public class Looking : MonoBehaviour
         //Player Body Turn
         Body.Rotate(Vector3.up * MouseX);
         //Camera Rotation
+        Mathf.Clamp(MouseY, -lookLimit, lookLimit);
         playerCamera.transform.Rotate(Vector3.right * -MouseY);
     }
 

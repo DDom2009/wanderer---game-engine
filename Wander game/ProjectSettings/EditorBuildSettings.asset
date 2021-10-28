@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ParkIntroduction.unity
+    guid: d4d08a4672566754e8d963220899450f
+  - enabled: 1
+    path: Assets/Scenes/Space-planets.unity
+    guid: e17b1d8931a9db54d9e043c1d8d32258
   m_configObjects: {}
