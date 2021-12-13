@@ -358,11 +358,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!4 &176371988 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 8bd6f2127b808ec4ba9a377da4440fd3, type: 3}
-  m_PrefabInstance: {fileID: 1426874617}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &222800627
 GameObject:
   m_ObjectHideFlags: 0
@@ -5335,11 +5330,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!4 &297324862 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 8bd6f2127b808ec4ba9a377da4440fd3, type: 3}
-  m_PrefabInstance: {fileID: 826983113}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &316124477
 GameObject:
   m_ObjectHideFlags: 0
@@ -6446,11 +6436,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 064228f853ab32e47bc88a27d798d098, type: 3}
---- !u!4 &702697848 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 8bd6f2127b808ec4ba9a377da4440fd3, type: 3}
-  m_PrefabInstance: {fileID: 2097775358}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &792770109
 GameObject:
   m_ObjectHideFlags: 0
@@ -16175,6 +16160,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8bd6f2127b808ec4ba9a377da4440fd3, type: 3}
+--- !u!4 &826983114 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 826983113}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &852042302
 GameObject:
   m_ObjectHideFlags: 0
@@ -16414,8 +16404,8 @@ Transform:
   m_LocalPosition: {x: 0.593086, y: 4.9087505, z: 3.1735928}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 176371988}
-  - {fileID: 297324862}
+  - {fileID: 826983114}
+  - {fileID: 1426874618}
   m_Father: {fileID: 1360486804}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -16962,11 +16952,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!4 &1183738360 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 8bd6f2127b808ec4ba9a377da4440fd3, type: 3}
-  m_PrefabInstance: {fileID: 1454487970}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1360486803
 GameObject:
   m_ObjectHideFlags: 0
@@ -16994,8 +16979,8 @@ Transform:
   m_LocalPosition: {x: 806.4, y: 277.3, z: 0}
   m_LocalScale: {x: 250, y: 250, z: 250}
   m_Children:
-  - {fileID: 1183738360}
-  - {fileID: 702697848}
+  - {fileID: 1454487971}
+  - {fileID: 2097775359}
   - {fileID: 948266264}
   m_Father: {fileID: 0}
   m_RootOrder: 16
@@ -17487,6 +17472,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8bd6f2127b808ec4ba9a377da4440fd3, type: 3}
+--- !u!4 &1426874618 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 1426874617}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1454487970
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17560,6 +17550,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8bd6f2127b808ec4ba9a377da4440fd3, type: 3}
+--- !u!4 &1454487971 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 1454487970}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1732427724
 GameObject:
   m_ObjectHideFlags: 0
@@ -22821,6 +22816,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8bd6f2127b808ec4ba9a377da4440fd3, type: 3}
+--- !u!4 &2097775359 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 2097775358}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &2099308294 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6619831288928568612, guid: 13d12bef0afbad34ea35da5b85e147f0, type: 3}
