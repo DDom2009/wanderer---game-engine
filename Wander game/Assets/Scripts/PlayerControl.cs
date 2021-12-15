@@ -6,6 +6,7 @@ public class PlayerControl : MonoBehaviour
 {
     public GameObject EText;
     public GameObject CameraAnimation;
+    public Animator SongVol;
     bool AnimationScene = false;
 	CharacterController PlayerController;
 
@@ -46,12 +47,14 @@ public class PlayerControl : MonoBehaviour
             if(Input.GetKeyDown(KeyCode.E))
             {
                 CameraAnimation.SetActive(true);
+                SongVol.enabled = true;
             }
         }
         else if(AnimationScene == false && EText != null && CameraAnimation != null)
         {
             EText.SetActive(false);
             CameraAnimation.SetActive(false);
+            SongVol.enabled = false;
         }
     }
 

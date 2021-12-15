@@ -1,20 +1,20 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: D:/E3WANDERER/wanderer---game-engine/Wander game/Packages/manifest.json
+    m_FilePath: C:/Repo/wanderer---game-engine/Wander game/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637711220994852259
-    m_Hash: 1718821709
+      ticks: 637714125716078964
+    m_Hash: 1526510087
   m_LockFileStatus:
-    m_FilePath: D:/E3WANDERER/wanderer---game-engine/Wander game/Packages/packages-lock.json
+    m_FilePath: C:/Repo/wanderer---game-engine/Wander game/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637711220994951989
-    m_Hash: 3357850216
+      ticks: 637714125716088937
+    m_Hash: 2725805346
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -25,7 +25,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.5.7
       source: 1
-      resolvedPath: D:\E3WANDERER\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.collab-proxy@1.5.7
+      resolvedPath: C:\Repo\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.collab-proxy@1.5.7
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Version Control
@@ -72,10 +72,8 @@ m_PackageAssets:
         - 1.13.5
         - 1.14.1
         - 1.14.4
-        - 1.14.7
         - 1.15.1
         - 1.15.4
-        - 1.15.7
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -94,7 +92,6 @@ m_PackageAssets:
         - 1.12.5
         - 1.14.1
         - 1.14.4
-        - 1.14.7
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -148,7 +145,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-      resolvedPath: D:\E3WANDERER\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.ide.rider@2.0.7
+      resolvedPath: C:\Repo\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.ide.rider@2.0.7
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -255,7 +252,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.8
       source: 1
-      resolvedPath: D:\E3WANDERER\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.ide.visualstudio@2.0.8
+      resolvedPath: C:\Repo\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.ide.visualstudio@2.0.8
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -344,7 +341,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.3
       source: 1
-      resolvedPath: D:\E3WANDERER\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.ide.vscode@1.2.3
+      resolvedPath: C:\Repo\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.ide.vscode@1.2.3
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -415,7 +412,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.2
       source: 1
-      resolvedPath: D:\E3WANDERER\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.polybrush@1.0.2
+      resolvedPath: C:\Repo\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.polybrush@1.0.2
       assetPath: Packages/com.unity.polybrush
       name: com.unity.polybrush
       displayName: Polybrush
@@ -493,7 +490,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.1.1
       source: 1
-      resolvedPath: D:\E3WANDERER\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.postprocessing@3.1.1
+      resolvedPath: C:\Repo\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.postprocessing@3.1.1
       assetPath: Packages/com.unity.postprocessing
       name: com.unity.postprocessing
       displayName: Post Processing
@@ -584,7 +581,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 4.5.2
       source: 1
-      resolvedPath: D:\E3WANDERER\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.probuilder@4.5.2
+      resolvedPath: C:\Repo\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.probuilder@4.5.2
       assetPath: Packages/com.unity.probuilder
       name: com.unity.probuilder
       displayName: ProBuilder
@@ -724,7 +721,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.3-preview.6
       source: 1
-      resolvedPath: D:\E3WANDERER\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.progrids@3.0.3-preview.6
+      resolvedPath: C:\Repo\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.progrids@3.0.3-preview.6
       assetPath: Packages/com.unity.progrids
       name: com.unity.progrids
       displayName: ProGrids
@@ -801,7 +798,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.1.24
       source: 1
-      resolvedPath: D:\E3WANDERER\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.test-framework@1.1.24
+      resolvedPath: C:\Repo\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.test-framework@1.1.24
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -897,7 +894,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.6
       source: 1
-      resolvedPath: D:\E3WANDERER\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.textmeshpro@3.0.6
+      resolvedPath: C:\Repo\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.textmeshpro@3.0.6
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -1060,7 +1057,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.4.8
       source: 1
-      resolvedPath: D:\E3WANDERER\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.timeline@1.4.8
+      resolvedPath: C:\Repo\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.timeline@1.4.8
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -3023,7 +3020,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.6
       source: 1
-      resolvedPath: D:\E3WANDERER\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.ext.nunit@1.0.6
+      resolvedPath: C:\Repo\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.ext.nunit@1.0.6
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -3084,7 +3081,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.3
       source: 1
-      resolvedPath: D:\E3WANDERER\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.settings-manager@1.0.3
+      resolvedPath: C:\Repo\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.settings-manager@1.0.3
       assetPath: Packages/com.unity.settings-manager
       name: com.unity.settings-manager
       displayName: Settings Manager
@@ -3106,7 +3103,6 @@ m_PackageAssets:
         - 1.0.1
         - 1.0.2
         - 1.0.3
-        - 2.0.0
         compatible:
         - 0.1.0-preview.4
         - 0.1.0-preview.8
@@ -3114,7 +3110,6 @@ m_PackageAssets:
         - 1.0.1
         - 1.0.2
         - 1.0.3
-        - 2.0.0
         verified: 1.0.3
       dependencies: []
       resolvedDependencies: []
@@ -3144,7 +3139,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 2.0.0
       source: 1
-      resolvedPath: D:\E3WANDERER\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
+      resolvedPath: C:\Repo\wanderer---game-engine\Wander game\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
       assetPath: Packages/com.unity.nuget.newtonsoft-json
       name: com.unity.nuget.newtonsoft-json
       displayName: Newtonsoft Json
@@ -3217,5 +3212,5 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-m_ProjectPath: D:/E3WANDERER/wanderer---game-engine/Wander game/Packages
+m_ProjectPath: C:/Repo/wanderer---game-engine/Wander game/Packages
 m_EditorVersion: 2020.3.10f1 (297d780c91bc)
